@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e24e3d90.css",
-    "main.js": "/static/js/main.05711b92.js",
-    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/index.html",
-    "main.e24e3d90.css.map": "/static/css/main.e24e3d90.css.map",
-    "main.05711b92.js.map": "/static/js/main.05711b92.js.map"
+    "main.css": "/Edvora-Internship/static/css/main.6b62bdd7.css",
+    "main.js": "/Edvora-Internship/static/js/main.05711b92.js",
+    "static/media/revicons.eot": "/Edvora-Internship/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Edvora-Internship/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Edvora-Internship/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Edvora-Internship/index.html",
+    "main.6b62bdd7.css.map": "/Edvora-Internship/static/css/main.6b62bdd7.css.map",
+    "main.05711b92.js.map": "/Edvora-Internship/static/js/main.05711b92.js.map"
   },
   "entrypoints": [
-    "static/css/main.e24e3d90.css",
+    "static/css/main.6b62bdd7.css",
     "static/js/main.05711b92.js"
   ]
 }
