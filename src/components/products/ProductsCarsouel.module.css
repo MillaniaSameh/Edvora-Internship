@@ -1,0 +1,13 @@
+.background {
+  width: 984px;
+  height: 190px;
+  margin-left: -15px;
+
+  background: #131313;
+  border-radius: 15px;
+}
+
+.carsouel {
+  margin-top: 20px;
+  margin: 20px;
+}

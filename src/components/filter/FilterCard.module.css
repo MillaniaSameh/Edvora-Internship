@@ -1,0 +1,10 @@
+.container {
+  position: absolute;
+  width: 228px;
+  height: 275px;
+  left: 25px;
+  top: 35px;
+
+  background: #131313;
+  border-radius: 15px;
+}

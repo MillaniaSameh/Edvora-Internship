@@ -1,0 +1,113 @@
+.column_width {
+  width: 55%;
+}
+
+.table_style {
+  margin-left: 12px;
+}
+
+.image {
+  width: 70px;
+  height: 70px;
+  border-radius: 5px;
+}
+
+.product_name {
+  width: 93px;
+  height: 16px;
+  padding-top: 18px;
+
+  /* font-family: SF Pro Display; */
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+
+  color: #ffffff;
+}
+
+.brand_name {
+  width: 91px;
+  height: 14px;
+  padding-left: 2px;
+
+  /* font-family: SF Pro Display; */
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.price {
+  width: 78.96px;
+  height: 15px;
+
+  /* font-family: SF Pro Display; */
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 16px;
+
+  color: #ffffff;
+}
+
+.location {
+  width: 90px;
+  height: 14px;
+
+  /* font-family: SF Pro Display; */
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 16px;
+
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.date_heading {
+  width: 26.43px;
+  height: 12px;
+
+  /* font-family: SF Pro Display; */
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 13px;
+
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.date_actual {
+  width: 66.57px;
+  height: 14px;
+
+  font-family: SF Pro Rounded;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 16px;
+
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.description {
+  margin-top: 10px;
+  width: 183px;
+  height: 15px;
+
+  /* font-family: SF Pro Display; */
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 13px;
+
+  color: rgba(255, 255, 255, 0.6);
+}
