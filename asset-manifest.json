@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Edvora-Internship/static/css/main.6b62bdd7.css",
-    "main.js": "/Edvora-Internship/static/js/main.05711b92.js",
-    "static/media/revicons.eot": "/Edvora-Internship/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/Edvora-Internship/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/Edvora-Internship/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/Edvora-Internship/index.html",
-    "main.6b62bdd7.css.map": "/Edvora-Internship/static/css/main.6b62bdd7.css.map",
-    "main.05711b92.js.map": "/Edvora-Internship/static/js/main.05711b92.js.map"
+    "main.css": "/Edvora-Products-Demo/static/css/main.f82b0d62.css",
+    "main.js": "/Edvora-Products-Demo/static/js/main.05711b92.js",
+    "static/media/revicons.eot": "/Edvora-Products-Demo/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Edvora-Products-Demo/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Edvora-Products-Demo/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Edvora-Products-Demo/index.html",
+    "main.f82b0d62.css.map": "/Edvora-Products-Demo/static/css/main.f82b0d62.css.map",
+    "main.05711b92.js.map": "/Edvora-Products-Demo/static/js/main.05711b92.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b62bdd7.css",
+    "static/css/main.f82b0d62.css",
     "static/js/main.05711b92.js"
   ]
 }
